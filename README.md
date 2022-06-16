@@ -1,10 +1,20 @@
-- 👋 Hi, I’m Zarina
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Zarina!
 
-<!---
-zarinazee/zarinazee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+👀 I’m interested in content creation
+
+
+🌱 I’m currently learning on digital marketing, data analytics, 🧠 japanese and french languages
+
+
+💜 loving social media, arts, events, community, sustainability, humanitarian works
+
+
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+[twitter]: https://twitter.com/keikozee21
+[instagram]: https://instagram.com/keikozee21
+[linkedin]: https://linkedin.com/in/zarina-z
