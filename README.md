@@ -4,7 +4,7 @@
 👀 I’m interested in content creation
 
 
-🌱 I’m currently learning on digital marketing, data analytics, 🧠 japanese and french languages
+🌱 I’m currently learning on digital marketing, data analytics
 
 
 💜 loving social media, arts, events, community, sustainability, humanitarian works
